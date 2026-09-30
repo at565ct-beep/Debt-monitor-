@@ -1,0 +1,10 @@
+{
+  "name": "Debt Monitor V2",
+  "short_name": "Debt Monitor",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#10233f",
+  "description": "Offline personal loan, credit card, budget and payoff tracker",
+  "icons": []
+}
